@@ -1,0 +1,27 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "\"Bootstrap, jQuery, Sass\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anajrim99/gulp-boilerplate.git"
+  },
+  "keywords": [
+    "[\"bootstrap\"",
+    "\"jQuery\"",
+    "\"Sass\""
+  ],
+  "author": "Križan M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anajrim99/gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/anajrim99/gulp-boilerplate#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
